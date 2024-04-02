@@ -39,7 +39,7 @@ Transaction Data: "transfile.csv" file which contains each customer transactions
 ## Tools
 
 - SAS Studio - for data cleaning, analysis and visualisation.
-- Tableau - for visualization and presentation.
+- Microsoft Power Point - for presentation.
 
 
 ## Data Cleaning and Preparation
